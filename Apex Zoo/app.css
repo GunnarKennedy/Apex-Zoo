@@ -1,0 +1,40 @@
+.custom-navbar-background {
+    background-color: #008ec4;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: black;
+}
+
+#text-area p {
+    font-size: 1.50rem;
+}
+#img-1 {
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+}
+/* @media(min-width:992px) {
+    #img-1 {
+        height: 400px;
+        width: 400px;
+    }
+} */
+#bold {
+    font-weight: bold;
+}
+.card {
+    box-shadow: gray 2px 2px 2px;
+}
+#footer {
+    background-color: #525252;
+    color: white;
+}
+#info a {
+    font-size: 1.25rem;
+    margin: 2px;
+    color: #e3e3e3;
+    display: block;
+}
+#footer-items {
+    align-items: center;
+}
